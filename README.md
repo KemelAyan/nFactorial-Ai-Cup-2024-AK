@@ -1,11 +1,11 @@
 # nFactorial-Ai-Cup-2024
 Fork this repository and build nFactorial Ai Cup 2024 projects 
 
-## < Your Name >
+## < Ayan >
 
-## < Your App's Name >
+## < Rangers >
 
-## < Your App's description, technical considerations, etc. >
+## < Power Rangers  >
 
 
 ## Typeform to submit:
