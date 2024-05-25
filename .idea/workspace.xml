@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71f785dc-29cd-495d-af86-7066db4e8820" name="Changes" comment="print H">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="71f785dc-29cd-495d-af86-7066db4e8820" name="Changes" comment="print django" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,12 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716564621655</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="print django">
+      <option name="closed" value="true" />
+      <created>1716644788273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716644788273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add file" />
     <MESSAGE value="print H" />
-    <option name="LAST_COMMIT_MESSAGE" value="print H" />
+    <MESSAGE value="print django" />
+    <option name="LAST_COMMIT_MESSAGE" value="print django" />
   </component>
 </project>
